@@ -1,2 +1,6 @@
-### SALVE PAE
-lUIS THE KID É O REI DA ZORRA TODA 
+#Luis Armando
+#Trabalho no cinema
+#Aluno em desenvolvimento de sistemas
+#17 anos
+
+
